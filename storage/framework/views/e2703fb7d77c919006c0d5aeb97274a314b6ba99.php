@@ -1,0 +1,1 @@
+New User Register username = <?= $data['username']; ?> , Mobile = <?= $data['mobile']; ?> , Email = <?= $data['email']; ?><?php /**PATH /home/sboy8c4wy24p/public_html/thediscountindia.com/admin/resources/views/registermail.blade.php ENDPATH**/ ?>

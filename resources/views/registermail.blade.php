@@ -1,0 +1,1 @@
+New User Register username = <?= $data['username']; ?> , Mobile = <?= $data['mobile']; ?> , Email = <?= $data['email']; ?>
